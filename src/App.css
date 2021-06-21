@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .app{
+  display: flex;
+}
+
+.map__container{
+  height: 40%;
+  width: 40%;
+  border: 1px solid red;
+
+} */
